@@ -103,7 +103,7 @@ export default function Home() {
                 Shaheer Rafi
                 </motion.span>
               <span className="text-xs text-gray-400 font-medium">
-                WordPress Developer
+                Frontend Developer
               </span>
             </div>
           </motion.div>
@@ -171,7 +171,7 @@ export default function Home() {
                   }}
                   transition={{ duration: 4, repeat: Infinity }}
                 >
-                  WordPress Developer
+                  Frontend Developer
                 </motion.span>
                 <br />
                 <motion.span 
@@ -1615,7 +1615,7 @@ export default function Home() {
                    Shaheer Rafi
                 </motion.span>
                 <span className="text-xs md:text-sm text-gray-400 font-medium">
-                  WordPress Developer
+                  Frontend Developer
                 </span>
               </div>
             </motion.div>
