@@ -1,0 +1,38 @@
+export const redirects: Record<string, Record<string, string>> = {
+    ecommerce: {
+        't29-customs': 'https://t29customs.uk/',
+        'mughalbaba': 'https://mughalbaba.com/',
+        'candle-delirium': 'https://www.candledelirium.com/',
+        'betterbodyfoods': 'https://betterbodyfoods.com/',
+        // 'groomarts': 'https://groomarts.shop/',
+        'elevationize-furniture': 'https://elevationize.com/',
+        'now-and-then-collectibles': 'https://www.nowandthencollectibles.com/',
+      },
+      saas: {
+        'socialtalent': 'https://www.socialtalent.com/',
+        'noda': 'https://remoteautismdiagnosis.com/',
+        'alphacorp-ai': 'https://alphacorp.ai/',
+        'mydatejar': 'https://mydatejar.com/',
+        'guideplan': 'https://guideplan.ai/',
+        'livepropfirmtrading': 'https://livepropfirmtrading.com/',
+      },
+      information: {
+        'unitravel-demo': 'https://unitravel.ancorathemes.com/',
+        // 'advantage1st': 'https://advantage1st.com/',
+        'byrnecut' : 'https://www.byrnecut.com/',
+        'arise-wakeup': 'https://arisewakeup.com/',
+        // 'ihl-immobilien': 'https://ihlimmobilien.com/',
+        'vale' : 'https://vale.com/',
+        'minds-for-health': 'https://mindsforhealth.com/',
+        'upright-productions': 'https://upright-productions.com/',
+      },
+      leadgen: {
+        'wolf-creek': 'https://www.1224wolfcreek.com/',
+        'epicurean': 'https://epicureangroupco.com/',
+        // 'pipe-patrol': 'https://pipepatrolplumbing.com/',
+        'stephanie-slays-hair': 'https://stephanieslayshair.com/',
+        'travel-with-class': 'https://travelwithclassllc.com/',
+        'beautiful-on-purpose': 'https://beautifulonpurpose.com/',
+        'maadi': 'https://maadigroup.com/',
+      },
+    };
