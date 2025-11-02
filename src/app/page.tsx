@@ -453,7 +453,7 @@ export default function Home() {
                 <p>
                   I don&apos;t see myself as just a developer, but as a partner working with you on your project. 
                   Every line of code I write is driven by the mindset that your success is my success.
-                  I&apos;ve worked on over 70 projects of varying size and complexity, and I’ve built a reputation for clear communication and on-time delivery.
+                  I&apos;ve worked on over 50 projects of varying size and complexity, and I’ve built a reputation for clear communication and on-time delivery.
                   What really sets me apart isn’t just my web development skills - it’s that I focus on solving real problems and helping your business grow. 
                   My goal is to be more than just a developer - I want to be a trusted partner who adds real value.
                 </p>
@@ -466,11 +466,11 @@ export default function Home() {
               </div>
               <div className="mt-8 flex gap-4">
                 <div className="text-center">
-                  <div className="text-2xl font-bold text-blue-400">8+</div>
+                  <div className="text-2xl font-bold text-blue-400">3+</div>
                   <div className="text-sm text-gray-400">Years Experience</div>
                 </div>
                 <div className="text-center">
-                  <div className="text-2xl font-bold text-purple-400">70+</div>
+                  <div className="text-2xl font-bold text-purple-400">50+</div>
                   <div className="text-sm text-gray-400">Projects Completed</div>
                 </div>
                 <div className="text-center">
@@ -1093,9 +1093,9 @@ export default function Home() {
             className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-8 text-center"
           >
             {[
-              { label: "Technologies", value: "+40", icon: "🛠️" },
-              { label: "Projects", value: "70+", icon: "🚀" },
-              { label: "Experience", value: "8+", icon: "⚡" },
+              { label: "Technologies", value: "+30", icon: "🛠️" },
+              { label: "Projects", value: "50+", icon: "🚀" },
+              { label: "Experience", value: "3+", icon: "⚡" },
               { label: "Coffee Cups", value: "∞", icon: "☕" },
             ].map((stat, index) => (
               <motion.div
